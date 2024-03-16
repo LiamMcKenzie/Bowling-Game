@@ -5,17 +5,27 @@ title: 'Bug Report: {Report Title}'
 labels: 'Type: Bug'
 ---
 
-**Description:**
-Describe the issue you encountered concisely.
+### Description:
+_Describe the issue you encountered concisely._
 
-**Expected Behavior:**
-What should have happened?
+- {Text here}
 
-**Actual Behavior:**
-What actually happened?
+### Expected Behavior:
+_What should have happened?_
 
-**Screenshots/GIFs:**
-If applicable, add visuals to help explain the issue.
+- {Text here}
 
-**Additional Information:**
-Any additional context or information about the bug.
+### Actual Behavior:
+_What actually happened?_
+
+- {Text here}
+
+### Screenshots/GIFs:
+_If applicable, add visuals to help explain the issue._
+
+- {Text here}
+
+### Additional Information:
+_Any additional context or information about the bug._
+
+- {Text here}
