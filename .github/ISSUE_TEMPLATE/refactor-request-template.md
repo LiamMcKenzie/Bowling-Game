@@ -5,14 +5,22 @@ title: 'Refactor Request: {Title}'
 labels: 'Type: Refactor'
 ---
 
-**Description:**
-Describe the code segment or functionality requiring refactoring.
+### Description:
+_Describe the code segment or functionality requiring refactoring._
 
-**Current Implementation:**
-Explain the current state that needs improvement.
+- {Text here}
 
-**Proposed Changes:**
-Outline the changes you suggest for improvement.
+### Current Implementation:
+_Explain the current state that needs improvement._
 
-**Impact:**
-Discuss the expected impact of the refactor.
+- {Text here}
+
+### Proposed Changes:
+_Outline the changes you suggest for improvement._
+
+- {Text here}
+
+### Impact:
+_Discuss the expected impact of the refactor._
+
+- {Text here}
