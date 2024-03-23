@@ -3,6 +3,8 @@ name: Refactor Request Template
 about: Request code refactoring
 title: 'Refactor Request: {Title}'
 labels: 'Type: Refactor'
+assignees: ''
+
 ---
 
 ### Description:

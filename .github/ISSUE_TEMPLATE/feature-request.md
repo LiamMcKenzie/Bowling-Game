@@ -3,6 +3,8 @@ name: Feature Request Template
 about: Propose new features or improvements to existing features.
 title: 'Feature Request: {Title}'
 labels: 'Type: Feature'
+assignees: ''
+
 ---
 
 ### Description:
