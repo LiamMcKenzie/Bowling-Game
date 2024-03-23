@@ -2,7 +2,7 @@
 name: Bug Report Template
 about: Report bugs and issues you encounter.
 title: 'Bug Report: {Report Title}'
-labels: 'Type: Bug, Type: User Story'
+labels: 'Type: Bug'
 assignees: ''
 
 ---
