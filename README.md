@@ -1,16 +1,10 @@
-# Bowling Game (WIP)
+![Untitled(1)(1)](https://github.com/LiamMcKenzie/Bowling-Game/assets/90590068/1dee4a21-4a77-420e-a3a9-93c5fffa0402)
 
-![header](https://github.com/LiamMcKenzie/RepoTemplate/assets/90590068/f50d8e68-a891-4d2f-ba18-743421cb5930)
+Turbo Ten-Pin Thriller is a arcade-style casual bowling game!
 
-{Description Here}
+Manuever your bowling ball after throwing it to maintain momentum and knock over the pins to score a strike.
 
-## How to play
-{explaination of game}
-
-To play:
-1. Download the latest version of the game from the (releases URL).
-2. Unzip the downloaded folder and run `{gamename}.exe`.
-
+Each frame provides a unique challenge, Post your highest score to the online leaderboard.
 
 ## Credits
 
